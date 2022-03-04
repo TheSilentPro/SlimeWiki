@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    color: white;
+    background-color: rgba(30,30,30,255);
+    list-style-position: inside;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    color: green;
+    text-decoration: solid;
+}
